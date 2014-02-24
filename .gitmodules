@@ -1,0 +1,6 @@
+[submodule "libs/libvpx"]
+	path = libs/libvpx
+	url = https://chromium.googlesource.com/webm/libvpx
+[submodule "libs/websocketpp"]
+	path = libs/websocketpp
+	url = https://github.com/zaphoyd/websocketpp.git
